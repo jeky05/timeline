@@ -5,21 +5,21 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "전지현"
   },
   "text": {
     "more": "",
     "intro": "",
-    "title": ""
+    "title": "네트워크 타임라인"
   },
   "legend": {
-    "edgeLabel": "",
+    "edgeLabel": "엣지",
     "colorLabel": "",
-    "nodeLabel": ""
+    "nodeLabel": "노드"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "Modularity Class",
     "hoverBehavior": "default"
   },
   "informationPanel": {
